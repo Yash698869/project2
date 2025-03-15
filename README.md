@@ -1,3 +1,3 @@
 # Project
 
-to push project from creating in vs code
+to push project from creating in vs code.
